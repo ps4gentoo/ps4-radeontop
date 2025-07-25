@@ -108,6 +108,8 @@ enum radeon_family {
 	OLAND,
 	HAINAN,
 	BONAIRE,
+        LIVERPOOL,
+        GLADIUS,
 	KABINI,
 	MULLINS,
 	KAVERI,

@@ -51,6 +51,8 @@ const char * const family_str[] = {
 	str(OLAND),
 	str(HAINAN),
 	str(BONAIRE),
+        str(LIVERPOOL),
+        str(GLADIUS),
 	str(KABINI),
 	str(MULLINS),
 	str(KAVERI),
